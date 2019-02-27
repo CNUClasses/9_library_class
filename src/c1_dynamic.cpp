@@ -7,7 +7,7 @@
 
 using namespace KP_NAMESPACE;
 
-c1_dynamic::c1_dynamic(void):p(NULLPOINTER)
+c1_dynamic::c1_dynamic(void):p(0)
 {
 }
 
